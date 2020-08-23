@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/henri-potier-library/static/css/main.5d261fc1.chunk.css",
+    "main.js": "/henri-potier-library/static/js/main.923711ab.chunk.js",
+    "main.js.map": "/henri-potier-library/static/js/main.923711ab.chunk.js.map",
+    "runtime-main.js": "/henri-potier-library/static/js/runtime-main.edbfa3b6.js",
+    "runtime-main.js.map": "/henri-potier-library/static/js/runtime-main.edbfa3b6.js.map",
+    "static/js/2.25cc3bfb.chunk.js": "/henri-potier-library/static/js/2.25cc3bfb.chunk.js",
+    "static/js/2.25cc3bfb.chunk.js.map": "/henri-potier-library/static/js/2.25cc3bfb.chunk.js.map",
+    "index.html": "/henri-potier-library/index.html",
+    "precache-manifest.65681f8cc42cb7d8ed325ef5ae0e718e.js": "/henri-potier-library/precache-manifest.65681f8cc42cb7d8ed325ef5ae0e718e.js",
+    "service-worker.js": "/henri-potier-library/service-worker.js",
+    "static/css/main.5d261fc1.chunk.css.map": "/henri-potier-library/static/css/main.5d261fc1.chunk.css.map",
+    "static/js/2.25cc3bfb.chunk.js.LICENSE.txt": "/henri-potier-library/static/js/2.25cc3bfb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edbfa3b6.js",
+    "static/js/2.25cc3bfb.chunk.js",
+    "static/css/main.5d261fc1.chunk.css",
+    "static/js/main.923711ab.chunk.js"
+  ]
+}
