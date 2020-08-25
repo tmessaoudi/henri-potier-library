@@ -1,4 +1,4 @@
-import {Book, Offer} from 'App'
+import {Book, Offer} from 'models/Book'
 
 export const applyOffer: { [id: string]: (price: number, offer: Offer) => number } = {
   "percentage": (price: number, offer: Offer) => price * (100 - offer.value) / 100,

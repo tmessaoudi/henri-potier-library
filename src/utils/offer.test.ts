@@ -1,5 +1,5 @@
 import {applyOffer, findBestOffer, sortOffer} from 'utils/offer'
-import {Book, Offer} from 'App'
+import {Book, Offer} from 'models/Book'
 
 
 describe("should apply correctly the offer", () => {
